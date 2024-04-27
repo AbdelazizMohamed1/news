@@ -1,5 +1,7 @@
 # Flutter_News_App
 
+using free news api.
+
 ## Android Screen Shots
 
  First Screen                 |   Put your key    
